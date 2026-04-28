@@ -1,4 +1,3 @@
-/*
 /* 
  * File:   CN0296D.h
  * Author: Schn1881
